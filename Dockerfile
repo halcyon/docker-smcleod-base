@@ -14,8 +14,8 @@ RUN apt-get update && apt-get install -y \
     tmux \
     zsh \
     autojump \
-    wget \
     curl \
+    vim-tiny \
     make \
     texinfo \
     install-info && \
